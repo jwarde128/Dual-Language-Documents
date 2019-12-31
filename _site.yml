@@ -4,7 +4,7 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Background.html"
+    - text: "Background"
       href: Background.html
     - text: "German-English"
       href: German-English.html
